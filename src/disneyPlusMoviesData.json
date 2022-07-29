@@ -1,0 +1,292 @@
+{
+    "movies": {
+        "1" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/49B92C046117E89BC9243A68EE277A3B30D551D4599F23C10BF0B8C1E90AEFB6/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/87F1DCF36049558159913ADFD18A800DE1121771540033EC3A7651B8FE154CEB/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.",
+            "subTitle": "2015 • 1h 35m • Coming of Age, Family, Animation",
+            "title": "Inside Out",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5C647DF3FFBFA343CFEA84AC715148F25F9E86F398B408010CC403E7654FB908/scale?width=1440&aspectRatio=1.78",
+            "type": "recommend"
+        },
+        "2" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4E9E81584305009D6385F6178D4B6930E97CD6EC4A3B53C818400DEF778FFA9A/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B983FF22BA64B6E19E0D3267280819B26758CFB765E8BED1099D11E320612953/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "Garfield is adopted by a greedy Lord with nefarious plans to open up his estate as a hunting ground.",
+            "subTitle": "2006 • 1h 19m • Family, Comedy, Kids",
+            "title": "A tail of two kitties",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/50B933E83609BEEFEDFA177A6D96DBFA7804C14F70A0B5AB314E892E65498ACF/scale?width=1440&aspectRatio=1.78",
+            "type": "new"
+        },
+        "3" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4F39B7E16726ECF419DD7C49E011DD95099AA20A962B0B10AA1881A70661CE45/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/706C68FF1CEA5A9C2AE0608892C2DF79E4AC1F0DDB4BFF7FE6DAFC36DAFC0286/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "A Chinese mom who’s sad when her grown son leaves home gets another chance at motherhood when one of her dumplings springs to life. But she finds that nothing stays cute and small forever.",
+            "subTitle": "2018 • 7m • Family, Fantasy, Kids, Animation",
+            "title": "Bao",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D7AEE1F05D10FC37C873176AAA26F777FC1B71E7A6563F36C6B1B497CAB1CEC2/scale?width=1440&aspectRatio=1.78",
+            "type": "recommend"
+        },
+        "4" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/FA1548A6B82C9991B1D38DF251A388FEA2483904510FBC73E150F67F7BDE38C0/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/0ECD36DD35658155915685271440833C29ED87E788CF8AE111AA6BCA6B939C37/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "When the kingdom's most wanted bandit is taken hostage by Rapunzel — a teen with 70 feet of golden hair who's looking to escape the tower where she's been locked away for years — the unlikely duo sets off on a hair-raising escapade.",
+            "subTitle": "2010 • 1h 40m • Family, Fantasy, Animation, Action-Adventure, Musical",
+            "title": "Tangled",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F70235E3463A6F246EB462ED5379F9D41D6318E80098BD40900E7AFC1C7D932D/scale?width=1440&aspectRatio=1.78",
+            "type": "trending"
+        },
+        "5" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/56EEBB17CC25C9FE16E334C34EF96BF7D91EC9BA3B438F88FB24E1C2AE785E03/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E486A02FA7B60669E77958D4FAE567AA5C9C57344006E1D1ADFC080719545166/badging?width=400&aspectRatio=1.78&format=jpeg&label=originals",
+            "description": "Jamie Foxx leads an all-star cast in this hilarious, heart-filled adventure. Pixar’s 'Soul' introduces Joe, who lands the gig of his life at the best jazz club in town. But one misstep lands Joe in a fantastical place: The Great Before. There, he teams up with soul 22 (Tina Fey), and together they find the answers to some of life’s biggest questions.",
+            "subTitle": "2020 • 1h 49m • Family, Comedy, Fantasy, Animation, Music",
+            "title": "Soul",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E837DDE901CD036DD87A00F2D63E2F2458FAA798E62BE91F973AECCEA313A67E/scale?width=1440&aspectRatio=1.78",
+            "type": "original"
+        },
+        "6" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/AAC4808815AE5721A6AAB372DD14B8CE2E7E9EFF3A27942EF2B6B45EBF4E65CB/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/501783804F435A386DBC4736F529A8EF664B1817CCB0B552E52D825B85B0A97B/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "Moana sets sail on a daring mission to save her people. Along the way, she meets the mighty demigod Maui–together they cross the ocean on a fun-filled, action-packed voyage from Walt Disney Animation Studios.",
+            "subTitle": "2016 • 1h 47m • Family, Fantasy, Animation, Action-Adventure, Musical",
+            "title": "Moana",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9562874BAB22B22A698368819B9EBF30FEB0291543552EB2416A5A61A73F63F4/scale?width=1440&aspectRatio=1.78",
+            "type": "trending"
+        },
+        "7" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B409C2A425D58C32D822EB633C7CAE3DC910DC2FC62D2B1807A0BB092C531E9A/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C0A883EAB54DDDC924018D08CF4555EE72B3E9A8C214BDADF29CB82B5E2275D7/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "While Helen is called on to lead a campaign to bring back the Supers, Bob navigates the day-to-day heroics of “normal” life at home with Violet, Dash and Jack-Jack, whose superpowers are about to be discovered. Their mission is derailed, however, when a new villain emerges with a brilliant and dangerous plot that threatens everything. But with Frozone by their side, the Parrs can take on anything.",
+            "subTitle": "2018 • 1h 58m • Science Fiction, Family, Animation, Action-Adventure",
+            "title": "Incredibles 2",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2041CE26663867FC4EF20377B8625BD629E619452E23BCDB1AB259DD475C2EA1/scale?width=1440&aspectRatio=1.78",
+            "type": "recommend"
+        },
+        "8" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D53D1F5D357587A8D09067AB09FFC7096F837CBAAE02BDC3C0E75814471A1E36/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/CC08686E87BDB2D83A46C9608CB2F43018381A82608C380649351A00ED0D2919/badging?width=400&aspectRatio=1.78&format=jpeg&label=originals",
+            "description": "ASSEMBLED is an immersive series of documentary-style specials examining the creation of Marvel Studios’ thrilling new shows and theatrical releases.",
+            "subTitle": "2021 • 1 Season • Docuseries, Anthology",
+            "title": "Assembled",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/37D80C5D1AB0BA65C63588311EC60A07342F60F91D402C28B8E1137AF6A30549/scale?width=1440&aspectRatio=1.78",
+            "type": "original"
+        },
+        "9" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2A509165105A09F9F533E2008B143BCF38D6A5859D0EBB40CCA388772005CD94/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A13BEC78ACF76FC91A94A1595A62A42CC26DFC6259332C74E061ADA379024E5C/badging?width=400&aspectRatio=1.78&format=jpeg&label=originals",
+            "description": "A young rabbit embarks on a journey to dig the burrow of her dreams, despite not having a clue what she’s doing. Rather than reveal to her neighbors her imperfections, she digs herself deeper and deeper into trouble. After hitting (bed)rock bottom, she learns there is no shame in asking for help.",
+            "subTitle": "2020 • 6m • Family, Animation",
+            "title": "Burrow",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/DD8BBA864E290FBC03A244A488FFC8DC8365FBF2F95A122B1D57BF3772D717FD/scale?width=1440&aspectRatio=1.78",
+            "type": "original"
+        },
+        "10" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/223DAE104BE1175F374C4AACAC0EB5B8B0DB9C49839AA2E10085533DDFE07A8E/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6EA416AD3B15FCC1BADC817A932A57FFF707556DB2233FFCB4CFEB7C8EEDE23C/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "This animated comedy focuses on the eponymous family in the town of Springfield. The head of the Simpson family, Homer, is not a typical family man. A nuclear-plant employee, he does his best to lead his family but often finds that they are leading him. The family includes loving, blue-haired matriarch Marge, troublemaking son Bart, overachieving daughter Lisa and baby Maggie.",
+            "subTitle": "1989 - 2019 • 31 Seasons • Comedy, Animation",
+            "title": "The Simpsons",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/47A6FB38D95B3A5EF5583C9EED0B698ED2992CBA4AC7222DD3269DC92DFA03A6/scale?width=1440&aspectRatio=1.78",
+            "type": "trending"
+        },
+        "11" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F6CDB6C0EB2D77EB19BCADA31F85066E001A1F61FA68F4AC3356A73FE076477F/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F8D1A6FD00ED479CC5E2E5C3E85F10EB05550748BD3C0FE76756614071968541/badging?width=400&aspectRatio=1.78&format=jpeg&label=originals",
+            "description": "Marvel Studios LEGENDS traces Wanda Maximoff’s evolution from an adversary of The Avengers to a powerful ally, and highlights one special relationship destined to shape her future in unexpected ways…",
+            "subTitle": "2021 • 1 Season • Science Fiction, Fantasy, Action-Adventure",
+            "title": "Legends",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/DDFF0FDF457E092EE53149CE7DB5BD14CB97E27B92D2D087E7C687B4E3073DE2/scale?width=1440&aspectRatio=1.78",
+            "type": "original"
+        },
+        "12" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/09A0617D43282F1A4FA1A97DF6159B4263A8DEB9679A007B61D5E5D6E5D0A2DD/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1E0501AFBAFCA1ABB5D31DBA7D1A913B2A35D70FD3DFD804939B71901577161D/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "Watch with Premier Access at the same time it's in open theaters and before it's available to all Disney+ subscribers on June 4, 2021.",
+            "subTitle": "2021 • 1h 52m • Family, Fantasy, Animation, Action-Adventure",
+            "title": "Raya",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E7D8EFFDD30B2A0E205DDD9929207439B21E7595709769F2A23C50457664FFB2/scale?width=1440&aspectRatio=1.78",
+            "type": "new"
+        },
+        "13" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/09DAD6A5DAECB6BA9E329FFA896B18978FE4AD5540C070D7973EE53357DD4D24/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/01666FAA085FF29B709DB13975E563E5E047DAAFF7D8F331201CB73F3C30027E/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "When Bob Parr visits designer Edna Mode for help with his high-energy toddler, she pulls an all-nighter designing a supersuit to harness Jack-Jack’s seemingly limitless powers.",
+            "subTitle": "2018 • 7m • Family, Comedy, Animation",
+            "title": "Auntie EDNA",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A31BE6502DC7A3A01DAF58DF7E91AB6FF598A078C8FA88A1DB2D7B7E25439464/scale?width=1440&aspectRatio=1.78",
+            "type": "recommend"
+        },
+        "14" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6FF2B403436E6558C08FB44B40AE334A9172FA293A8325940E8E7FF7F696E4D3/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/509E4D9F0BF98A9DC4CDD38954380782F6AB2664E503CC7652A37D18D06666BF/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "Mickey entertains preschoolers by inviting them to join him and his friends for a date at the Clubhouse. Using early math learning and problem solving skills, he leads kids on an interactive adventure of learning and fun.",
+            "subTitle": "2006 - 2013 • 5 Seasons • Kids, Animation",
+            "title": "Mickey mouse",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4FF3FCD567F0263430DFC33B9489CE2799AE33B50AD553DE65F03B3EA2E19828/scale?width=1440&aspectRatio=1.78",
+            "type": "trending"
+        },
+        "15" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/456A711C19899C881600F6247705E5253EB18C2471D75E5281E1FF6ACB6D2FBA/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/341AE85B6C1423B9042B5F2E786645EE551B9D546C3D263B220A4727617FD2B8/badging?width=400&aspectRatio=1.78&format=jpeg&label=originals",
+            "description": "Marvel Studios’ “The Falcon and The Winter Soldier” stars Anthony Mackie as Sam Wilson aka The Falcon, and Sebastian Stan as Bucky Barnes aka The Winter Soldier. The pair, who came together in the final moments of “Avengers: Endgame,” team up on a global adventure that tests their abilities—and their patience.",
+            "subTitle": "2021 • 1 Season • Science Fiction, Action-Adventure, Buddy",
+            "title": "The falcon and the winter soldier",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4A67A42FB16607DAE7E22266D3F00181965178ED1884047C2D982EE7D89D3554/scale?width=1440&aspectRatio=1.78",
+            "type": "new"
+        },
+        "16" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/28F85D4A1F7CA135B7B20B3EDB42EDA73196C2A71C52C5400A6C2285F8E071BE/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4B32D8CB7C0C358E9FF348FB0338AD13F9A5836808E9EF5FADD9DBDE52FC3CAD/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "J-Pop band Perfume is featured in this original music and documentary series 'Disney’s My Music Story.' The show features Perfume's life stories, passion for music, Disney memories, and more.",
+            "subTitle": "2019 • 53m • Documentary, Biographical, Music",
+            "title": "My music story",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/97BB36F8B9FC053F561894DD7B1C42C4FD20E63560F481CBCB3B9D3600CFCA3B/scale?width=1440&aspectRatio=1.78",
+            "type": "new"
+        },
+        "17" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/CE11790021F56BC111DA25E7CA7F99ECD6C6E43409A81BBD11FCA0EF3648722F/scale?width=2880&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E42D446D22880807D6C70654E911A241FDD97CFA4E8D1CD883A614A0C248B735/scale?width=800&aspectRatio=1.78&format=jpeg",
+            "description": "Natasha Romanoff aka Black Widow confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.",
+            "subTitle": "2021 • 2h 15m • Spy / Espionage, Super Hero, Action-Adventure",
+            "title": "Black Widow",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E3A2A6A9CB87E6A901F5B2ABB0877992284692A2D3A6FB71067082A6C90F5321/scale?width=1920&aspectRatio=1.78&format=png",
+            "type": "recommend"
+        },
+        "18" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C86AE58A1BCA5C4E27D1C54871EF9193D5167DC481A78DC0BB746D4DFB85EAE8/scale?width=2880&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7F0DA38C733C4F327062F43A39D6AA981C80B8498B7863B9FDD4097FC6713C19/badging?width=800&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+            "description": "'What If…?' flips the script on the MCU, reimagining famous events from the films in unexpected ways. Marvel Studios’ first animated series focusses on different heroes from the MCU, featuring a voice cast that includes a host of stars who reprise their roles. The series is directed by Bryan Andrews; AC Bradley is head writer.",
+            "subTitle": "2021 • 1 season • Science Fiction, Anthology, Animation, Super Hero, Action-Adventure",
+            "title": "What If...?",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A29018B33B39F3C7940C65A1932CD1025BAE8B809B2826EE0181665565748886/scale?width=1920&aspectRatio=1.78&format=png",
+            "type": "recommend"
+        },
+        "19" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D9C93F7CFF985DCA3CDAB92112617EF6C9E5D32304C50338E996560B26FAD541/scale?width=2880&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/430CF9ADA2B30567EAD93087594219CC4B5AC6D509D20C4CFE6E319A34F5CC16/badging?width=800&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+            "description": "After the fall of the Galactic Empire, lawlessness has spread throughout the galaxy.",
+            "subTitle": "2019 - 2020 • 2 seasons • Science Fiction, Action-Adventure",
+            "title": "The Mandalorian",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C4E043953F7FA0E7011B936A3C7B350618075036BBD17A984DDE61D2D724BEF3/scale?width=1920&aspectRatio=1.78&format=png",
+            "type": "recommend"
+        },
+        "20" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8C575DB58F5E56987121F2A5725842EA2BC986E5B85B690567BDFE3E9ECA6648/scale?width=2880&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E01BA8C8547BB0D5DBA24BE9835395514067A69898B733960252D3D16122CE45/badging?width=800&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+            "description": "Marvel Studios presents “WandaVision,” a blend of classic television and the Marvel Cinematic Universe in which Wanda Maximoff (Elizabeth Olsen) and Vision (Paul Bettany)—two super-powered beings living idealized suburban lives—begin to suspect that everything is not as it seems. The new series is directed by Matt Shakman; Jac Schaeffer is head writer.",
+            "subTitle": "2021 • 1 season • Romance, Drama, Science Fiction, Fantasy, Super Hero",
+            "title": "WandaVision",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A2215E27D8C3945B566991F54AE443228EDDC031DD00E5F5A86F6EAEB0D97873/scale?width=1920&aspectRatio=1.78&format=png",
+            "type": "recommend"
+        },
+        "21" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E0B7A67B2C8E9AEE976EDDBC3064C1F4E1B76FD640320C9A7A29C945B95A2087/scale?width=2880&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E66E8C9D9297D5FF211C6117884AE9F63AD5331986D299BB125FB432612C7041/scale?width=800&aspectRatio=1.78&format=jpeg",
+            "description": "An animated series that revolves around Stan Smith, a CIA agent in Langley Falls, Virginia, whose main objective in life is national security. His family, a talking goldfish, and a space alien he rescued from Area 51 keep Stan busy while he tries to prevent terrorist activity in the U.S.",
+            "subTitle": "2005 - 2020 • 16 seasons • Comedy, Animation",
+            "title": "American Dad",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D0F11CC9C75FA8D87E7DE0896262E328B462B4CDCC99BE9FFF8E782E29DB8D34/scale?width=1920&aspectRatio=1.78&format=png",
+            "type": "trending"
+        },
+        "22" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/99BA8B1162768D7B4BF3757B9548F8304A0162E453477EEEEE2924E847B794B2/scale?width=2880&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/24435E4349F063DE3120393DCC27937CCD5F274AF86AF1DD719A0310175DFA70/badging?width=800&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+            "description": "A six-part docuseries with fly on the wall access into the wider world of NASA, with cameras on Earth and in space. NASA astronaut Captain Chris Cassidy is on a quest to get back in his spacesuit for one last mission. This series follows Chris and the wider team who take on missions that risk life, limb and reputation for the greater good of humankind. Join them as their missions unfold.",
+            "subTitle": "2021 • 1 season • Docuseries",
+            "title": "Among the Stars",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A5DEB53D8A009839DAA469B3DB5736E4939BF749F4F23109E1596223BE453C6A/scale?width=1920&aspectRatio=1.78&format=png",
+            "type": "trending"
+        },
+        "23" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3A65E699CC6E64EA5801A9B3D562A07302868C565D47A989B1ED06805DF7EE0C/scale?width=2880&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/ABA74F706B3188ADCE192025B5BA9DFC824B51E197BC81CE2A562E72F2427B03/scale?width=800&aspectRatio=1.78&format=jpeg",
+            "description": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+            "subTitle": "2019 - 2020 • 2 seasons • Comedy, Animation",
+            "title": "Family Guy",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/0BD255152D8C7B4F25D77699AD01068BC0B4120DBF29E366CB7917390B462673/scale?width=1920&aspectRatio=1.78&format=png",
+            "type": "trending"
+        },
+        "24" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/25C4D9970169EF9B7B7BBB7C5E9D6DE96CE8DC1585D580B0474A59F9F0195C92/scale?width=2880&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F92F09DD373C61EA04EEAB991E9B4D3F1909B24AD15DD512AE37F7ADE4608E99/scale?width=800&aspectRatio=1.78&format=jpeg",
+            "description": "The epic conclusion to the Infinity Saga that became a critically acclaimed worldwide phenomenon, this dramatic showdown pits the Avengers against Thanos. After devastating events wiped out half the world’s population and fractured their ranks, the remaining heroes struggle to move forward. But they must come together to restore order and harmony in the universe and bring their loved ones back.",
+            "subTitle": "2019 • 3h 4m • Science Fiction, Fantasy, Super Hero, Action-Adventure",
+            "title": "Marvel Studios' Avengers: Endgame",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9D79E161ECF0D2A97F0472721B9AB72F59985D2E97E58FD0BAE86FCE85FE90E7/scale?width=1344&aspectRatio=1.78&format=png",
+            "type": "trending"
+        },
+        "25" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/183208682F564E923374CAEDAE2AE773B3DC4699C9C767287CFCEBAE49492C73/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/DBBAA8FFEB2BB83ABB821219D863AE9DC8AC0F05DE99F464ACB5A32A6251DE06/badging?width=400&aspectRatio=1.78&format=jpeg&label=staroriginal",
+            "description": "Only Murders In The Building follows three strangers who share an obsession with true crime and suddenly find themselves wrapped up in one as they investigate the mysterious death of a neighbour in their New York City apartment building.",
+            "subTitle": "2021 • 1 season • Mystery, Drama, Comedy, Crime",
+            "title": "Only Murders in the Building",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D4F318773C64769897B13138C36ADE829CADE10F41EBCD341F22425E06B98063/scale?width=1440&aspectRatio=1.78&format=png",
+            "type": "original"
+        },
+        "26" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5905CC3EABFAFE23511AAAD8D691F77BE5E9A38F63E0DB8B604BBF3A92F17668/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3584426F867BCD85AB0C602908E523AEB1468AF204ABFCD656D28A0960EDDFBF/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+            "description": "World-famous daredevil The Great Gonzo takes on the greatest challenge of his life by spending the night in the scariest place on Earth — the Haunted Mansion. Teamed with his friend Pepé the King Prawn, this musical comedy reunites Kermit and the entire Muppets gang, who portray the beloved grim grinning ghosts of the Haunted Mansion in this star-studded, frightfully funny Muppets adventure.",
+            "subTitle": "2021 • 52m • Family, Comedy, Musical",
+            "title": "Muppets Haunted Mansion",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9298AF6917DB71D66E89CDBAF34E5016048F350B469C26AFB6455745F28976FA/scale?width=1440&aspectRatio=1.78&format=png",
+            "type": "original"
+        },
+        "27" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5E183B116B52B14D7D16F262D0CF002283A92337B73F2B4E87ED1B3D764BB569/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/BC316F90DD669BCFA1C5BC795416D7BEE1A039CD46D4BB74EB7212E1EBB837EE/badging?width=800&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+            "description": "Inspired by the writings of R.L. Stine, “Just Beyond” is an eight-episode anthology series that tells astonishing and thought-provoking stories of a reality just beyond the one we know. Each episode introduces viewers to a new cast of characters who must go on a surprising journey of self-discovery in a supernatural world of witches, aliens, ghosts and parallel universes.",
+            "subTitle": "2021 • 1 season • Drama",
+            "title": "Just Beyond",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/807D22307680A90F5F9766E4B265D2236D1BE874C3C1F5C4C3D3515E253F2779/scale?width=1440&aspectRatio=1.78&format=png",
+            "type": "original"
+        },
+        "28" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5CC73BD871EB3FE7679D93ACF6E61F70D2AB34A83ADB2461837D6D427A3C8B4F/scale?width=2880&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1F215F75BBFF25E85AC308EB7A6F40DA3234789F96DCD9CE9C9DE4BBC01AC733/scale?width=800&aspectRatio=1.78&format=jpeg",
+            "description": "An elite team of FBI profilers analyze the country’s most twisted criminal minds, anticipating their next moves before they strike again. As the team evolves together, the Behavioral Analysis Unit continues its dedication to using their expertise to pinpoint predators’ motivations and identify their emotional triggers in the attempt to stop them.",
+            "subTitle": "2005 - 2020 • 15 seasons • Drama, Police / Cop, Procedural",
+            "title": "Criminal Minds",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E29F487AAEAF2E04151FDA64F49800ABD5680AD409E282DDB1AFD19E35B47826/scale?width=1920&aspectRatio=1.78&format=png",
+            "type": "original"
+        },
+        "29" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5F0F55969BBD7F2C9BFDC2485AE6A99E5A9148D2D1A95242F534ADC0EA33C9ED/scale?width=2880&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6608A7F5A30B5E69B0B585E0EED00873B38FF799E0ACE3071D2163B89A5DFE7A/scale?width=800&aspectRatio=1.78&format=jpeg",
+            "description": "Earl has taken one too many wrong turns on the highway of life. However, a twist of fate turns his life into a life-renewing tailspin. When a car hits Earl – immediately after he won the lottery – he has an epiphany and begins to question Karma. From that moment on he becomes determined to right all the wrongs from his past.",
+            "subTitle": "2005 - 2008 • 4 seasons • Comedy",
+            "title": "My Name is Earl",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9BCA50A8ADCDB34C8E51352BF48078693CA8009F5766A9BE686A9FE56EF80DAE/scale?width=1920&aspectRatio=1.78&format=png",
+            "type": "new"
+        },
+        "30" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/03D08FA831C3FC4B2C3B3F5D9D299D2B4BB225DE6B4BF10BC1004D59D32FCEA0/scale?width=2880&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B8D349F7F4A7E4D247B7F1349068D110AE18EE0C9C9BF61B87AECD7935E1053F/scale?width=800&aspectRatio=1.78&format=jpeg",
+            "description": "A bank teller discovers he is actually a background player in an open-world video game, and decides to become the hero of his own story. Now, in a world where there are no limits, he is determined to be the guy who saves his world his way before it’s too late.",
+            "subTitle": "2021 • 1h 56m • Science Fiction, Comedy, Action-Adventure",
+            "title": "Free Guy",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4B1D02645F456A6865F34A47605442ADFD39BDFCB8C980135AD3128259C8FF78/scale?width=1920&aspectRatio=1.78&format=png",
+            "type": "new"
+        },
+        "31" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D70017AFFFFAB494F182BACEA62AB4677916D7BC63FD64817DE623BC83805DE4/scale?width=2880&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5872332238FDF5978CD68533603307D53DC7C31A29F5994E3DDDA364A1DB7F08/badging?width=800&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+            "description": "Star Wars: Visions is an anthology of animated shorts celebrating Star Wars through the lens of the world’s best anime creators and storytellers.",
+            "subTitle": "2021 • 1 season • Science Fiction, Anime, Anthology, Animation, Action-Adventure",
+            "title": "Star Wars: Visions",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C62AB4F7C548310A508FFD78490B3F7384431837B189D06C6587C2EFFE812DAC/scale?width=1920&aspectRatio=1.78&format=png",
+            "type": "new"
+        },
+        "32" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/11D8712163AFCA4A6D65839BC2BBD423B5D10924123E6E704E618225601B82A5/scale?width=2880&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7DAE3C829F84CBDC626A12CF2CEFBB2F463C5796FBF042D93393B36BAEC558A8/scale?width=800&aspectRatio=1.78&format=jpeg",
+            "description": "Emma Stone stars in Disney’s “Cruella,” which explores the rebellious early days of one of cinema’s most notorious – and notoriously fashionable – villains, Cruella de Vil. Set in 1970s London amidst the punk rock revolution, the movie follows a young grifter named Estella and reveals the series of events that cause her to embrace her wicked side and become the raucous and revenge-bent Cruella.",
+            "subTitle": "2020 • 2h 16m • Drama, Crime",
+            "title": "Cruella",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/062F3032CC40BB94A19104298F0E3DD4438AF1C0E6BE5769B72A48DDB7E5B3A8/scale?width=1920&aspectRatio=1.78&format=png",
+            "type": "new"
+        }
+    }
+}
